@@ -19,6 +19,7 @@ nav{
     display:flex ;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 
 nav ul{
@@ -38,4 +39,19 @@ nav a{
     color: black;
     font-size: 45px;
     font-weight: 800;
+}
+
+header{
+    background-color: #FFF8F3;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .bp{
+    width: 584px;
+   height: 676px;
+   flex-shrink: 0;
 }
