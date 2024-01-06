@@ -115,3 +115,16 @@ main{
 .about-info{
     text-align: center;
 }
+#sd{
+    padding: 30px 150px;
+}
+.skill-container{
+    display: flex;
+}
+.skil-des{
+
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
